@@ -1,0 +1,25 @@
+To setup and run:
+
+1. - python3 -m venv venv    ( to create a virtual env )
+2. - source venv/bin/activate  ( to run your virtual env )
+3. - Navigate to inside HW3_RecipeShare
+4. - Make sure your run.py is inside the HW3_RecipeShare folder, and is also outside your app folder, 
+5. - Make sure everything else is inside that app folder!
+5. - In the app folder, create a folder named templates and put all your html's in there
+6. - Create a folder named __pycache__ and put all the pyc files in there
+7. - Make sure these files are in the app folder: forms.py, _init_.py, models.py, routes.py, and site.db
+4. - pip install -r requirements.txt ( to install libraries )
+5. - python run.py ( to start server )
+6. - Then you go to http://127.0.0.1:5000 in your browser!
+
+
+
+
+Navigating: 
+1. - Once at the main page, click login 
+2. - Register a new login.
+3. - Once done, login with your username
+4. - When you're logged in, you can view all recipes, create a recipe, delete a recipe, and log out!
+5. - Enjoy!
+
+Thank you!
